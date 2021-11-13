@@ -1,2 +1,0 @@
-# hkcert21trial
-hkcertctftrial
